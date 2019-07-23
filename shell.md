@@ -1,4 +1,4 @@
-#Shell information !
+# Shell information !
 
 ## Introduction
 
@@ -16,3 +16,5 @@ Comme tous les interpréteurs en ligne de commande de type script, Bash exécute
 Les scripts sont de courts programmes généralement faciles à construire. Bash offre un service de gestion de flux, c'est-à-dire qu'il permet que le résultat d'un script (la sortie) soit transmis à un autre script (l'entrée). De cette façon, les scripts peuvent être « chaînés », chacun effectuant une seule tâche bien délimitée.
 
 Les scripts peuvent être exécutés manuellement par l'utilisateur ou automatiquement par le système. Par exemple, dans la distribution GNU/Linux Ubuntu, le répertoire resume.d contient un certain nombre de scripts qui s'exécutent automatiquement lors du redémarrage du système, c'est-à-dire après la fin de la mise en veille de celui-ci. Ces scripts servent à relancer les différents programmes interrompus par la mise en veille.
+
+En sommes le shell communique avec le kernel selon les instructions fournis par l'utilisateur.
