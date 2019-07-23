@@ -22,3 +22,7 @@ alias name_of_your_alias='order your alias'
 ```
 
 :bangbang: No space between the name of the alias, = and the order. :bangbang:
+
+### **How to use them**
+
+:three:
