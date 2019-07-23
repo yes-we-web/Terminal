@@ -1,7 +1,24 @@
-# **ALIASES**
+# **What is the alias**
 
-:one: *Creation of aliases*
+:one:
 
-:point_right: In the _**.bashrc**_.
+**Aliases** are used to create shorcuts for commands.
 
-:point_right: Or in a file that we create.
+## **Creation of the alias**
+
+:two:
+
+*two hidden files* :
+
+- `.bashrc`
+
+- your file of aliases.
+
+:information_source: provisional alias is also possible
+
+The form remains the same :
+```
+alias name_of_your_alias='order your alias'
+```
+
+:bangbang: No space between the name of the alias, = and the order. :bangbang:
