@@ -26,3 +26,42 @@ alias name_of_your_alias='order your alias'
 ### **How to use them**
 
 :three:
+
+to validate your aliases, leave the terminal or type :
+```
+source ~/.bashrc
+```
+
+for create an alias :
+```
+alias upd='sudo apt update'
+```
+
+and type in a terminal :
+```
+upd
+```
+
+if you want all the aliases, write:
+```
+alias
+```
+
+It's possible to create temporary **aliases** :
+```
+alias name_alias='order your alias'
+```
+
+use this command :
+```
+name_alias
+```
+
+Finally remove alias of current session of terminal :
+```
+unalias my_alias
+```
+
+_**Antoine Goncalves**_
+
+:wave: :wave:
