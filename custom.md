@@ -8,3 +8,14 @@
 **3/Open and add command in *.bashrc*:**
 
 **4/Open new terminal**
+
+# How to custom Terminal Opening using Yakuake:   
+:movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=NDeWaaZMj3s) :movie_camera: 
+ 
+**:one: Install *yakuake*:**
+
+**:two: Open:**
+
+**:three: Enjoy *Custom*:**
+
+**:four: Autostart**
