@@ -8,11 +8,11 @@ _**:one: Directory and file management commands**_
 
 - **pwd**
 - **ls**
-- **cd**
-  - cd .. => répertoire parent
-  - cd ~
-  - cd -
-  - cd /
+- **`cd`**
+  - `cd` .. => répertoire parent
+  - `cd` ~
+  - `cd` -
+  - `cd` /
 - **cp**
 - **mv**
 - **mkdir**
