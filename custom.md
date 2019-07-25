@@ -9,6 +9,8 @@
 
 **:four: Open new terminal**
 
+> :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
+
 # How to custom Terminal Opening using Yakuake:   
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=NDeWaaZMj3s) :movie_camera: 
  
@@ -19,6 +21,8 @@
 **:three: Enjoy *Custom*:**
 
 **:four: Autostart**
+
+> :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 # How to display the Matrix in your terminal:
 :movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
@@ -31,4 +35,4 @@
 
 **:four: Mode:**
 
-
+> :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
