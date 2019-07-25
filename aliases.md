@@ -88,4 +88,4 @@ alias upd='sudo apt update'
 
 dans le terminal , au lieu de taper `sudo apt update` j'ai juste `upd`.
 
-:bowtie: Cette commande permet de mettre à jour la liste des packages existants.
+:bowtie: Cette commande permet de mettre à jour la liste des packages existants. :bowtie:
