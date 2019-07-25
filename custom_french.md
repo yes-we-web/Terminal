@@ -1,20 +1,20 @@
-#Customise ton terminall sous linux
+# Customise ton terminall sous linux
 
-> **Bonjour tout le monde,voici differents tuto pour customiser votre terminal sous linux , amusez vous**
+> :fr: **Bonjour tout le monde,voici differents tuto pour customiser votre terminal sous linux , amusez vous** :wink: :fr:
 
 ## 1. Comment customiser l'en-tête de votre terminal avec `figlet`:
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=yz6n8TJgvLk&t=54s) :movie_camera: 
  
-**:one: Install *figlet*:**
+**:one: Installe *figlet*:**
 ```
 sudo apt-get install figlet
 ```
-**:two: choose a *font*:**
+**:two: choisit une *police d'écriture*:**
 ```
 showfigfonts "text"
 ```
 
-**:three: Open and add command in *.bashrc*:**
+**:three: Ouvre et entre cette commande dans *.bashrc*:**
 ```
 code bashrc
 ```
@@ -24,7 +24,7 @@ figlet -f "your font" "text"
 ```
 - (save .bashrc)
 
-**:four: Open new terminal**
+**:four: Ferme et ouvre un nouveau terminal**
 * Ctrl+alt+t
 
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
@@ -32,18 +32,18 @@ figlet -f "your font" "text"
 ## 2. Comment customiser l'ouverture de votre terminal avec `yakuake`:   
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=NDeWaaZMj3s) :movie_camera: 
  
-**:one: Install *yakuake*:**
+**:one: Installe *yakuake*:**
 ```
 sudo apt-get install yakuake
 ```
 
-**:two: Open:**
+**:two: Ouvre l'application:**
 :point_right: Albert :point_right: yakuake
      
-**:three: Enjoy *Custom*:**
+**:three: *Customise*:**
 :point_right: check settings     
 
-**:four: Autostart**
+**:four: Démarrage automatique de l'application**
 
 1. Open Startup applications
 2. Click on Add
@@ -56,17 +56,17 @@ sudo apt-get install yakuake
 ## 3. Comment afficher la matrice dans votre terminal avec `cmatix`:
 :movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
 
-**:one: Install *cmatrix*:**
+**:one: Installe *cmatrix*:**
 ```
 sudo apt-get install cmatrix
 ```
 
-**:two: Install *cmatrix-font*:**
+**:two: Installe *cmatrix-font*:**
 ```
 sudo apt-get install cmatrix-font
 ```
   
-**:three: Use cmatrix**
+**:three: Utilise *cmatrix*:**
 * Start: `cmatrix`
 * Stop: Ctrl+c
       
