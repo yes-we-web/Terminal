@@ -22,7 +22,7 @@ Du coup , avec les alias, imaginons on doit écrire un truc hyper long et qu'on 
 
 ----
 
-> Un dev web doit être une féniasse by _**Hachemi**_
+> Vous devez apprendre à être une féniasse by _**Hachemi**_
 
 ----
 
