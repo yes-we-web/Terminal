@@ -53,7 +53,7 @@ sudo apt-get install yakuake
 
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
-## 3. Comment afficher la matrice dans votre terminal avec `cmatix`:
+## 3. Comment afficher la matrice dans votre terminal avec `cmatrix`:
 :movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
 
 **:one: Installe *cmatrix*:**
