@@ -6,14 +6,14 @@
 
 _**:one: Directory and file management commands**_
 
-- **`pwd`** ==> 
+- **`pwd`** `==> Print Working Directory`
 - **`ls`** `==> List Segment`
-- **`cd`**
-  - `cd .. ==> Change Directory`
+- **`cd`** `==> Change Directory`
+  - `cd ..` 
   - `cd ~`
   - `cd -`
   - `cd /`
-- **`cp`**
+- **`cp`** `==> Copy`
 - **`mv`** `==> Mouv`
 - **`mkdir`** `==> Make Directory`
 - **`rmdir`** `==> Remove Directory`
