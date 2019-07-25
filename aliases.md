@@ -66,9 +66,10 @@ source~/.bashrc
 
 :bangbang: Attention ! :bangbang: **Si vous voulez créer un nouveau fichier pour vos alias n'oubliez pas de le rajouter dans le fichier `.bashrc` , c'est à dire :**
 
-1. Allez dans le fichier `.bashrc`
+**1. Allez dans le fichier `.bashrc`**
 
-2. Écrire juste en dessous des alias prédefini `source~/nom_fichier_alias`
+**2. Écrire juste en dessous des alias prédefini `source~/nom_fichier_alias`**
+
 On peut donc créer de nombreux alias pour pouvoir nous facilité la vie.
 
 Votre alias est donc créer et prêt à étre utiliser , on tape donc :
