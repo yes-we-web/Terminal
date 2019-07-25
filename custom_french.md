@@ -5,7 +5,9 @@
 > :fr: **Bonjour tout le monde,voici differents tuto pour customiser votre terminal sous linux , amusez vous** :wink: :fr:
 
 ## 1. Comment customiser l'en-tête de votre terminal avec `figlet`:
+
 ![figlet](https://i.ytimg.com/vi/yz6n8TJgvLk/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1Sc_i5v9XhlNKxmNMSJ7BpNVoyw"Comment customiser l'en-tête de votre terminal")
+
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=yz6n8TJgvLk&t=54s) :movie_camera: 
  
 **:one: Installe *figlet*:**
@@ -33,7 +35,9 @@ figlet -f "your font" "text"
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 ## 2. Comment customiser l'ouverture de votre terminal avec `yakuake`:   
+
 ! [yakuake](https://i.ytimg.com/vi/NDeWaaZMj3s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgDg3H_NWyXI0tOfMOFex-33b6gQ"Comment customiser l'ouverture de votre terminal")
+
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=NDeWaaZMj3s) :movie_camera: 
  
 **:one: Installe *yakuake*:**
@@ -58,7 +62,9 @@ sudo apt-get install yakuake
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 ## 3. Comment afficher la matrice dans votre terminal avec `cmatrix`:
+
 ! [matrix](https://i.ytimg.com/vi/O0-0j1BD2qE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAio-xObSQ959EF8ipBHM-I5Cw3gg"Comment afficher la matrice dans votre terminal")
+
 :movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
 
 **:one: Installe *cmatrix*:**
