@@ -65,7 +65,7 @@ Encore une fois deux moyens s'offrent à vous :
 
 * Ou bien on tape :
 ```
-source~/.bashrc
+source ~/.bashrc
 ```
 
 :bangbang: Attention ! :bangbang: **Si vous voulez créer un nouveau fichier pour vos alias n'oubliez pas de le rajouter dans le fichier `.bashrc` , c'est à dire :**
