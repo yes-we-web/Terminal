@@ -1,6 +1,6 @@
 # Customise ton terminal sous linux
 
-![center](/home/yesweweb/sites/imageFotoJet2.jpg "Blacktr@ce")
+![center](https://yt3.ggpht.com/ikEnzTf7Z7VDwidr1qoUiGVASFordTjPJi3WaPYR-aA4aC2m12yWakI8nIlROAKBk9ovtle-=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj "Blacktr@ce")
 
 > :fr: **Bonjour tout le monde,voici differents tuto pour customiser votre terminal sous linux , amusez vous** :wink: :fr:
 
