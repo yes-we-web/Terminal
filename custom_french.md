@@ -1,4 +1,6 @@
-# Customise ton terminall sous linux
+# Customise ton terminal sous linux
+
+[Logo chaine Youtube](/Downloads/FotoJet2.jpg"Blacktr@ce")
 
 > :fr: **Bonjour tout le monde,voici differents tuto pour customiser votre terminal sous linux , amusez vous** :wink: :fr:
 
