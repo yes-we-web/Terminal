@@ -1,6 +1,6 @@
 #Custom your terminal on ubuntu linux
 
-> **Hello everyone, here is different tutorial to customize your terminal on linux, have fun**
+> :uk: **Hello everyone, here is different tutorial to customize your terminal on linux, have fun** :wink: :uk:
 
 ## 1. How to custom Terminal Welcome using Figlet:
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=yz6n8TJgvLk&t=54s) :movie_camera: 
