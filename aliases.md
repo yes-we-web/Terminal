@@ -6,7 +6,7 @@ Petite présentation tout d'abord , moi c'est [**Antoine Goncalves**](https://gi
 
 Je suis en train de faire une formation pour pouvoir être Developpeur Web à Lesquin ( la formation s'appelle [**Yes We Web**](https://twitter.com/YesWeWebVT) ) ( du moins on essaie :grimacing: ) .
 
-Donc j'ai décider de vous parlez des alias :
+Donc j'ai décider de vous faire une petite présentation des alias :
 
 -----
 
@@ -27,6 +27,8 @@ Du coup , avec les alias, imaginons on doit écrire un truc hyper long et qu'on 
 ----
 
 Du coup l'alias est le meilleur outils pour pouvoir gagner du temps et de l'énergie :v:
+
+----
 
 ## :two: Comment créer un alias :
 
@@ -50,6 +52,8 @@ alias nom_alias='commande de l'alias'
 :bangbang: Attention :bangbang: **Il n'y a aucun espace entre le nom de l'alias, le signe = et la commande**
 
 Une fois que vous avez créer un ou plusieurs alias , enregister vos modification et , hop , on retourne sur le terminal.
+
+----
 
 ### :three: Comment les utilisés :
 
@@ -90,3 +94,44 @@ dans le terminal , au lieu de taper `sudo apt update` j'ai juste `upd`.
 
 :bowtie: Cette commande permet de mettre à jour la liste des packages existants. :bowtie:
 
+Si on veut voir tout les alias qu'on as créer , suffit juste de taper :
+```
+alias
+```
+
+On peut également créer des alias temporaires ! Du coup pouur faire ça il faut juste taper sur son terminal :
+```
+alias nom_alias='commande alias'
+```
+
+Par exemple :
+```
+alias maj='sudo apt update && sudo apt upgrade'
+```
+
+:bowtie: && veut dire simplement *et* :bowtie:
+
+Jusqu'à la fermeture du terminal, on peut taper :
+```
+maj
+```
+
+Enfin, on peut aussi supprimer l'alias de la session en cours du terminal, on tape :
+```
+unalias nom_alias
+```
+
+Pour reprendre l'exemple juste au dessus :
+```
+unalias maj
+```
+
+Voilà , Voilà !
+
+J'espère que cette petite introduction aux alias aura permis à certain d'en savoir un peu plus, et pour les féniants ils seront encore plus content :joy:
+
+~~Merci à vous !~~
+
+**Antoine Goncalves**
+
+:vague: :vague: :vague:
