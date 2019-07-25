@@ -1,70 +1,93 @@
-# **What is the alias**
+![logo ALias](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alias_logo.svg/220px-Alias_logo.svg.png)
 
-:one:
+Bonjour à tous, j'espère que vous allez bien ! C'est mon premier "article" donc j'espère que vous allez trouver ça plutôt cool :satisfied: .
 
-**Aliases** are used to create shorcuts for commands.
+Petite présentation tout d'abord , moi c'est [**Antoine Goncalves**](https://github.com/Antoine-Goncalves) !
 
-## **Creation of the alias**
+Je suis en train de faire une formation pour pouvoir être Developpeur Web à Lesquin ( la formation s'appelle [**Yes We Web**](https://twitter.com/YesWeWebVT) ) ( du moins on essaie :grimacing: ) .
 
-:two:
+Donc j'ai décider de vous parlez des alias :
 
-*two hidden files* :
+-----
 
-- `.bashrc`
+# :one: Qu'est ce qu'un alias :
 
-- your file of aliases.
+----
 
-:information_source: provisional alias is also possible
+Du coup qu'est-ce qu'un alias ?
 
-The form remains the same :
+Un alias est tout simplement un raccourci pour les commandes sur le terminal.
+
+Du coup , avec les alias, imaginons on doit écrire un truc hyper long et qu'on répete tout le temps ( sachant je cite :
+
+----
+
+> Un dev web doit être une féniasse by _**Hachemi**_
+
+----
+
+Du coup l'alias est le meilleur outils pour pouvoir gagner du temps et de l'énergie :v:
+
+## :two: Comment créer un alias :
+
+----
+
+Deux moyens s'offrent à vous maintenant pour créer un alias :
+
+* Dans le fichier `bashrc` juste après la ligne "some more ls aliases"
+
+:bowtie: *le fichier `.bashrc` est déja créer donc pas de panique !* :bowtie:
+
+* Ou bien ( et je conseille vivement l'option 2 ) de créer son propre fichier d'alias. Ça permet de ne pas surcharger le fichier `bashrc` et vous aurez un fichier exclusivement d'alias !
+
+Du coup une fois qu'on as fait cette étape , pour créer son alias il faut juste taper :
 ```
-alias name_of_your_alias='order your alias'
+alias nom_alias='commande de l'alias'
 ```
 
-:bangbang: No space between the name of the alias, = and the order. :bangbang:
+:bowtie: On peut parfaitement utiliser " ou ' c'est la même chose ça ne changera pas votre alias , les deux écritures sont bonnes :bowtie:
 
-### **How to use them**
+:bangbang: Attention :bangbang: **Il n'y a aucun espace entre le nom de l'alias, le signe = et la commande**
 
-:three:
+Une fois que vous avez créer un ou plusieurs alias , enregister vos modification et , hop , on retourne sur le terminal.
 
-to validate your aliases, leave the terminal or type :
+### :three: Comment les utilisés :
+
+----
+
+Encore une fois deux moyens s'offrent à vous :
+
+* Soit on quitte tout simplement son terminal et on le redémarre pour pouvoir ajouter la modification
+
+* Ou bien on tape :
 ```
-source ~/.bashrc
+source~/.bashrc
 ```
 
-for create an alias :
+:bangbang: Attention ! :bangbang: **Si vous voulez créer un nouveau fichier pour vos alias n'oubliez pas de le rajouter dans le fichier `.bashrc` , c'est à dire :
+
+1. Allez dans le fichier `.bashrc`
+
+2. Écrire juste en dessous des alias prédefini `source~/nom_fichier_alias`**
+
+On peut donc créer de nombreux alias pour pouvoir nous facilité la vie.
+
+Votre alias est donc créer et prêt à étre utiliser , on tape donc :
+```
+nom_alias
+```
+
+Et ça vous fait gagner du temps !
+
+Par exemple , pour y voir plus clair :
+
+j'ai créer cette alias :
 ```
 alias upd='sudo apt update'
 ```
 
-and type in a terminal :
-```
-upd
-```
+dans le terminal , au lieu de taper `sudo apt update` j'ai juste `upd`.
 
-if you want all the aliases, write:
-```
-alias
-```
+:bowtie: Cette commande permet de mettre à jour la liste des packages existants. :bowtie:
+  
 
-It's possible to create temporary **aliases** :
-```
-alias name_alias='order your alias'
-```
-
-use this command :
-```
-name_alias
-```
-
-Finally remove alias of current session of terminal :
-```
-unalias my_alias
-```
-
-_**Antoine Goncalves**_
-
-:wave: :wave:
-
-
-:question: :question: if you want more information go to the wiki.
