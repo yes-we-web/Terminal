@@ -134,4 +134,4 @@ J'espère que cette petite introduction aux alias aura permis à certain d'en sa
 
 **Antoine Goncalves**
 
-:vague: :vague: :vague:
+:wave: :wave: :wave:
