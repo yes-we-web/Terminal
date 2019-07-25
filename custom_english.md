@@ -1,5 +1,7 @@
 # Custom your terminal on ubuntu linux
 
+![center](https://yt3.ggpht.com/ikEnzTf7Z7VDwidr1qoUiGVASFordTjPJi3WaPYR-aA4aC2m12yWakI8nIlROAKBk9ovtle-=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj "Blacktr@ce")
+
 > :uk: **Hello everyone, here is different tutorial to customize your terminal on linux, have fun** :wink: :uk:
 
 ## 1. How to custom Terminal Welcome using Figlet:
