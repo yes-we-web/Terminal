@@ -19,3 +19,16 @@
 **:three: Enjoy *Custom*:**
 
 **:four: Autostart**
+
+# How to display the Matrix in your terminal:
+:movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
+
+**:one: Install *cmatrix*:**
+
+**:two: Install *cmatrix-font*:**
+
+**:three: Use cmatrix**
+
+**:four: Mode:**
+
+
