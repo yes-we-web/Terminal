@@ -1,4 +1,4 @@
-#Custom your terminal on ubuntu linux
+# Custom your terminal on ubuntu linux
 
 > :uk: **Hello everyone, here is different tutorial to customize your terminal on linux, have fun** :wink: :uk:
 
