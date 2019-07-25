@@ -5,6 +5,9 @@
 > :uk: **Hello everyone, here is different tutorial to customize your terminal on linux, have fun** :wink: :uk:
 
 ## 1. How to custom Terminal Welcome using Figlet:
+
+![center](https://i.ytimg.com/vi/yz6n8TJgvLk/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1Sc_i5v9XhlNKxmNMSJ7BpNVoyw "How to custom Terminal Welcome")
+
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=yz6n8TJgvLk&t=54s) :movie_camera: 
  
 **:one: Install *figlet*:**
@@ -32,6 +35,9 @@ figlet -f "your font" "text"
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 ## 2. How to custom Terminal Opening using Yakuake:   
+
+![center](https://i.ytimg.com/vi/NDeWaaZMj3s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgDg3H_NWyXI0tOfMOFex-33b6gQ "How to custom Terminal Opening")
+
 :movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=NDeWaaZMj3s) :movie_camera: 
  
 **:one: Install *yakuake*:**
@@ -56,6 +62,9 @@ sudo apt-get install yakuake
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 ## 3. How to display the Matrix in your terminal:
+
+![center](https://i.ytimg.com/vi/O0-0j1BD2qE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAio-xObSQ959EF8ipBHM-I5Cw3gg "How to display the Matrix in your terminal")
+
 :movie_camera: [TUTO YOUTUBE](https://youtu.be/O0-0j1BD2qE) :movie_camera: 
 
 **:one: Install *cmatrix*:**
