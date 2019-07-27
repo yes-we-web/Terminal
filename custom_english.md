@@ -123,7 +123,8 @@ sudo apt install toilet
 
 **:four: choose a filter with using *toilet*:**
 
-* vailable filters:
+* Available filters:
+```
 - “crop”: crop unused blanks
 - “gay”: add a rainbow color effect
 - “metal”: add a metallic color effect
@@ -133,6 +134,8 @@ sudo apt install toilet
 - “left”: rotate 90 degrees counterclockwise 
 - “right”: rotate 90 degrees clockwise
 - “border”: surround text with a border
+```
+
 ```
 toilet -f (your font) "your txt" --filter (your filter)
 ```
