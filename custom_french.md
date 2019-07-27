@@ -102,3 +102,55 @@ sudo apt-get install cmatrix-font
 ```
 
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
+
+## 4. How to Custom Terminal Welcome Part 2:
+:movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=UJd5MldawBo) :movie_camera: 
+
+**:one: Installe *figlet*:**
+```
+sudo apt install figlet
+```
+
+**:two: Installe *toilet*:**
+``` 
+sudo apt install toilet
+```
+
+**:three: Choisit une police d'écriture en utilisant *figlet*:**
+```
+showfigfonts "text"
+```
+
+**:four: Choisit un filtre en utilisant *toilet*:**
+
+* Available filters:
+```
+- “crop”: crop unused blanks
+- “gay”: add a rainbow color effect
+- “metal”: add a metallic color effect
+- “flip”: flip horizontally
+- “flop”: flip vertically
+- “180”: rotate 180 degrees
+- “left”: rotate 90 degrees counterclockwise 
+- “right”: rotate 90 degrees clockwise
+- “border”: surround text with a border
+```
+
+```
+toilet -f (your font) "your txt" --filter (your filter)
+```
+
+**:five: Ouvre et entre cette commande dans *.bashrc*:**
+``` 
+code .bashrc
+```
+- (in .bashrc)
+```
+toilet -f (your font) "your txt" --(your filter)
+```
+- (save .bashrc)
+
+**:six: Ouvre un nouveau *Terminal*:**
+* Ctrl+alt+t
+
+> :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
