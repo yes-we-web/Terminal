@@ -116,12 +116,12 @@ sudo apt install figlet
 sudo apt install toilet
 ```
 
-**:three: choose a font with using *figlet*:**
+**:three: Choose a font with using *figlet*:**
 ```
      showfigfonts "text"
 ```
 
-**:four: choose a filter with using *toilet*:**
+**:four: Choose a filter with using *toilet*:**
 
 * Available filters:
 ```
