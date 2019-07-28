@@ -1,3 +1,4 @@
+![Terminal](https://cdn.pixabay.com/photo/2013/07/13/13/41/bash-161382_960_720.png)
 # Qu'est ce qu'un shell ?
 
 * Le shell sert à communiquer avec le kernel,
