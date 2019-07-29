@@ -104,8 +104,11 @@ sudo apt-get install cmatrix-font
 > :arrow_right: [Donovan RINGOT](https://github.com/DRINGOT) :arrow_left:
 
 ## 4.How to Custom Terminal Welcome Part 2:
-:movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=UJd5MldawBo) :movie_camera: 
+
 ![center](https://i.ytimg.com/vi/UJd5MldawBo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBktmCZjKvbdFVURsDe7KSjO4RKAA "How to Custom Terminal Welcome Part 2")
+
+:movie_camera: [TUTO YOUTUBE](https://www.youtube.com/watch?v=UJd5MldawBo) :movie_camera: 
+
 
 **:one: Install *figlet*:**
 ```
