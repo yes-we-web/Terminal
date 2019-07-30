@@ -30,3 +30,27 @@
     To hell with the 
 * "I could not do it",or
 * "how will I do to retain power shell commands" ... Start, we can not break anything.
+***
+# Le shell
+
+## Introduction : 
+## Les differents shells
+
+Il existe plusieurs environnements console : les shells
+* C'est ça, en effet. Voici les noms de quelques-uns des principaux shells qui existent et que l'on va aborder ensemble lors de la lecture de ce wiki.
+```
+* bash : Bourne Again Shell. Une amélioration du Bourne Shell, disponible par défaut sous Linux et Mac OS X.
+* zsh : Z Shell. Shell assez récent reprenant les meilleures idées de bash, ksh et tcsh.
+```
+
+***
+
+## _Bash_
+
+Shell bash, ou Bourne Again: est le shell GNU standard, intuitif et flexible. Sous Linux, bash est le shell standard. Ce shell est un sur-__ensemble__ du shell Bourne. Cela signifie que le shell Bourne Again est compatible avec le shell Bourne: les commandes qui fonctionnent dans sh , fonctionnent également en bash (Cependant, l'inverse n'est pas toujours le cas).
+***
+## _Zsh_
+
+c'est un shell qui a bien des avantages (notamment pour les scripts), mais il est assez limité dans certaines fonctionnalités comme l'autocomplétion. Zsh est plutôt orienté pour l'interactivité avec l'utilisateur. Il inclut presque toutes les fonctionnalités que vous attendez de Bash, mais il comporte également de très jolis plugins pour vous simplifier la vie.
+***
+Find me in [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
