@@ -53,4 +53,3 @@ Shell bash, ou Bourne Again: est le shell GNU standard, intuitif et flexible. So
 
 c'est un shell qui a bien des avantages (notamment pour les scripts), mais il est assez limité dans certaines fonctionnalités comme l'autocomplétion. Zsh est plutôt orienté pour l'interactivité avec l'utilisateur. Il inclut presque toutes les fonctionnalités que vous attendez de Bash, mais il comporte également de très jolis plugins pour vous simplifier la vie.
 ***
-Find me in [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
